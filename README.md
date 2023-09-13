@@ -5,13 +5,13 @@ Este é um site aonde eu "Alysson tschurtschenthaler" estou mostrando a vocês d
 
 
 # autores
-Alysson Tschurtschenthaler, Gustavo
+Alysson Tschurtschenthaler, Gustavo Guanabara
 
 # tecnologias utilizadas
+HTML e CSS
 
 # veja como ficou o site pelo seu celular :)
 
 ![image info](/qrcode.png)
-
 
 
