@@ -1,4 +1,5 @@
-
+# meu README
+![image info](/gif.gif)
 
 # descrição
 Este é um site aonde eu "Alysson tschurtschenthaler" estou mostrando a vocês da onde surgiu o icone android, aqui está toda a historia e algumas curioaidades, venha ver 😉 <br>
@@ -12,6 +13,6 @@ HTML e CSS
 ![image info](/qrcode.png)
 
 # autores
-Alysson Tschurtschenthaler, Gustavo Guanabara
+Alysson Tschurtschenthaler e Gustavo Guanabara
 
 
