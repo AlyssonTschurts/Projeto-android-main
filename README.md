@@ -1,7 +1,7 @@
 
 
 # descrição
-Este é um site aonde eu "Alysson tschurtschenthaler" estou mostrando a vocês da onde surgiu o icone android, aqui está toda a historia e algumas curioaidades, venha ver 😉 
+Este é um site aonde eu "Alysson tschurtschenthaler" estou mostrando a vocês da onde surgiu o icone android, aqui está toda a historia e algumas curioaidades, venha ver 😉 <br>
 (este site foi um desafio proporcionado pelo cursoemvideo)
 
 # tecnologias utilizadas
