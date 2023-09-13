@@ -13,6 +13,6 @@ HTML e CSS
 ![image info](/qrcode.png)
 
 # autores
-Alysson Tschurtschenthaler e Gustavo Guanabara
+Alysson Tschurtschenthaler e Gustavo Guanabara 
 
 
