@@ -10,7 +10,6 @@ Alysson Tschurtschenthaler, Gustavo
 # tecnologias utilizadas
 
 # veja como ficou o site pelo seu celular :)
-
 ![image info](img/qrcode.png)
 
 
